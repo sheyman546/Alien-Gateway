@@ -1,13 +1,14 @@
 
 # 🌉 Alien Gateway
 
-[![Smart Contracts CI](https://github.com/Alien-Protocol/Alien-Gateway/actions/workflows/build_test.yml/badge.svg)](https://github.com/Alien-Protocol/Alien-Gateway/actions/workflows/build_test.yml)
-[![Checks](https://github.com/Alien-Protocol/Alien-Gateway/actions/workflows/checks.yml/badge.svg)](https://github.com/Alien-Protocol/Alien-Gateway/actions/workflows/checks.yml)
-[![ZK Circuits CI](https://github.com/Alien-Protocol/Alien-Gateway/actions/workflows/zk_circuits.yml/badge.svg)](https://github.com/Alien-Protocol/Alien-Gateway/actions/workflows/zk_circuits.yml)
+[![Smart Contracts CI](https://github.com/Alien-Protocol/Alien-Gateway/actions/workflows/contract.yml/badge.svg)](https://github.com/Alien-Protocol/Alien-Gateway/actions/workflows/contract.yml)
+
+[![Validator CI](https://github.com/Alien-Protocol/Alien-Gateway/actions/workflows/pre-commit-validation.yml/badge.svg)](https://github.com/Alien-Protocol/Alien-Gateway/actions/workflows/pre-commit-validation.yml)
+
 
 <p align="center">
   <img 
-    src="alien_protocol_optiz.gif" 
+    src="./assets/alien_protocol_banner.gif" 
     alt="Alien Protocol"
     width="100%"
     style="max-width:900px; border-radius:20px; box-shadow:0 0 40px rgba(0,255,170,.35);"
